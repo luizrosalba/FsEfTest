@@ -1,0 +1,16 @@
+D: /package
+D: /package/services
+D: /package/services/metadata
+D: /package/services/metadata/core-properties
+F: /package/services/metadata/core-properties/f7abef76f3a94443a3bb4c6045b29ae6.psmdcp
+D: /_rels
+F: /_rels/.rels
+D: /lib
+D: /lib/netstandard2.1
+F: /lib/netstandard2.1/Microsoft.EntityFrameworkCore.Relational.dll
+F: /lib/netstandard2.1/Microsoft.EntityFrameworkCore.Relational.xml
+F: /.signature.p7s
+F: /Microsoft.EntityFrameworkCore.Relational.nuspec
+F: /[Content_Types].xml
+F: /microsoft.entityframeworkcore.relational.5.0.8.nupkg
+F: /Icon.png

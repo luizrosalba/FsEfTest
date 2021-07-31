@@ -1,0 +1,4 @@
+FSharp.Core
+EntityFrameworkCore.FSharp
+Microsoft.EntityFrameworkCore
+Microsoft.EntityFrameworkCore.Sqlite

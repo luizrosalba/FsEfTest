@@ -1,0 +1,6 @@
+source https://www.nuget.org/api/v2
+
+nuget EntityFrameworkCore.FSharp 5.0.3-beta004 beta
+nuget FSharp.Core
+nuget Microsoft.EntityFrameworkCore 5.0.8
+nuget Microsoft.EntityFrameworkCore.Sqlite 5.0.8
